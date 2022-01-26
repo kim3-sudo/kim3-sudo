@@ -1,14 +1,16 @@
 # Howdy!
 
-👋 Hi, I’m **[@kim3-sudo](https://github.com/kim3-sudo)**! I'm a data and systems analyst from Gambier, Ohio, United States! I’m currently a student at Kenyon College and I work with data all day, every day!
+👋 Hi, I’m **[@kim3-sudo](https://github.com/kim3-sudo)**! I'm a data and systems analyst from Gambier, Ohio, United States! I’m currently a student at Kenyon College, and I work with data all day, every day!
 
 ## Things I’m interested in
-- **Sports analytics 🚴‍♂️⚾🏈🥍**
-- **Fancy models 🌲☂️**
+- **Data analysis** 📈🧮🖥️
+- **Sports analytics** 🚴‍♂️⚾🏈🥍
+- **Fancy models and traditional machine learning** 🌲☂️
+- **Programming** 💻⚙️
 
 ## About me
 - 💞️ I’m looking to collaborate on some statistics projects in sports analytics (or data analysis in general!)
-- ⚡ Fun fact **I'm a cracked-out cyclist (jk, drugz r bad, eat wadermelun instead)**
+- ⚡ Fun fact: **I'm a cracked-out cyclist (jk, drugz r bad, eat wadermelun instead)**
 - 📫 How to reach me: **send me an email at kim3[at]kenyon[dot]edu**
 
 ## Languages I work with
@@ -34,6 +36,8 @@
 
 ## Public packages I maintain
 - nsm3data: [CRAN](https://cran.r-project.org/package=nsm3data) [GitHub](https://github.com/kim3-sudo/nsm3data.git)
+
+samy is my hero
 
 
 <!---
