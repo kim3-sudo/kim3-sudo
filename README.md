@@ -13,7 +13,7 @@
 
 ## Languages I work with
 <p>
-  <img alt="R" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-45b8d8?style=flat-square&logo=R&logoColor=white" />
 </p>
 
 
