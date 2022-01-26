@@ -32,8 +32,8 @@
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-1a73e8?style=flat-square&logo=microsoft-azure&logoColor=white" />
 </p>
 
-## Maintainer
-- nsm3data: [CRAN](https://cran.r-project.org/package=nsm3data)
+## Public packages I maintain
+- nsm3data: [CRAN](https://cran.r-project.org/package=nsm3data) [GitHub](https://github.com/kim3-sudo/nsm3data.git)
 
 
 <!---
