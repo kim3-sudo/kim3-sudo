@@ -11,6 +11,7 @@
 ## About me
 - 💞️ I’m looking to collaborate on some statistics projects in sports analytics (or data analysis in general!)
 - ⚡ Fun fact: **I'm a cracked-out cyclist (jk, drugz r bad, eat wadermelun instead)**
+- 📚 More: [here](https://beyondmercury.com/resume/)
 - 📫 How to reach me: **send me an email at kim3[at]kenyon[dot]edu**
 
 ## Languages I work with
