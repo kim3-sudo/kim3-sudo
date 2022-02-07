@@ -8,6 +8,9 @@
 - **Fancy models and traditional machine learning** 🌲☂️
 - **Programming** 💻⚙️
 
+## If you are a
+- **Moodle developer**: I need your help pls
+
 ## About me
 - 💞️ I’m looking to collaborate on some statistics projects in sports analytics (or data analysis in general!)
 - ⚡ Fun fact: **I'm a cracked-out cyclist (jk, drugz r bad, eat wadermelun instead)**
