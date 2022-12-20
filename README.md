@@ -1,15 +1,12 @@
 # Howdy!
 
-👋 Hi, I’m **[@kim3-sudo](https://github.com/kim3-sudo)**! I'm a data and systems analyst from Gambier, Ohio, United States! I’m currently a student at Kenyon College, and I work with data all day, every day!
+👋 Hi, I’m **[@kim3-sudo](https://github.com/kim3-sudo)**! I'm a data and systems analyst from Gambier, Ohio, United States! I work at Kenyon College, and I work with data all day, every day!
 
 ## Things I’m interested in
+- **Database engineering** 🗃️🗄️📊💽
 - **Data analysis** 📈🧮🖥️
 - **Sports analytics** 🚴‍♂️⚾🏈🥍
-- **Fancy models and traditional machine learning** 🌲☂️
 - **Programming** 💻⚙️
-
-## If you are a
-- **Moodle developer**: I need your help pls
 
 ## About me
 - 💞️ I’m looking to collaborate on some statistics projects in sports analytics (or data analysis in general!)
